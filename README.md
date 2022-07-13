@@ -6,7 +6,7 @@
 
 ### Abstract
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this study, Monte Carlo methods were used to investigate the impact on fit indexes of varying 
+In this study, Monte Carlo methods were used to investigate the impact on fit indexes of varying 
 sample size, model size, model type, and degree of model misspecification. 
 Monte Carlo simulation is one of statistical techniques that use pseudo-random sampling (e.g., 
 pulling random numbers from the given distribution) to derive approximate solutions to a variety 
