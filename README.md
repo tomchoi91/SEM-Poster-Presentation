@@ -13,18 +13,6 @@ pulling random numbers from the given distribution) to derive approximate soluti
 of mathematical problems.
 
 
-Monte Carlo simulation offers researchers an alternative to the theoretical approach by creating 
-empirical sampling distributions under certain assumptions. This is important because many 
-situations exist in which implementing a theoretical approach is difficult or not possible at all 
-(e.g., RMR, CFI, TLI have no known statistical distributions). 
-
-
-Furthermore, when some theoretical assumptions are violated in the actual data, the validity 
-of the estimates is often compromised and uncertain. Because the statistical properties of most 
-SEM estimators do not necessarily hold under such conditions, researchers must turn to 
-simulation research to support the validity of their inferences.
-
-
 This study specifically addresses the sensitivity of various fit indices to various model modeling 
 conditions such as sample size, model size, model type, and degree of model misspecification. 
 Previous literatures have provided the guidelines for which fit indices must be used and proposed 
