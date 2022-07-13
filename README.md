@@ -1,4 +1,4 @@
-# [Monte Carlo Simulation to Study Fit Index Performances under the Varying Modeling Conditions: Comparing R and SAS Results](https://github.com/tomchoi91/2022-Early-Childhood-Summit-Presentation/blob/main/documents/poster_CHOI.pdf)
+# [Monte Carlo Simulation to Study Fit Index Performances under the Varying Modeling Conditions: Comparing R and SAS Results](https://github.com/tomchoi91/SEM-Poster-Presentation/blob/main/documents/sem%20poster_CHOI.pdf)
 
 ### Dongho Choi 
 <img align="left" width="400" height="18" src="https://ucomm.unl.edu/images/brand-book/Our-marks/UNL-Name-CMYK.jpg">
