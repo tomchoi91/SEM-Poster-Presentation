@@ -6,14 +6,14 @@
 
 ### Abstract
 
-In this study, Monte Carlo methods were used to investigate the impact on fit indexes of varying 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this study, Monte Carlo methods were used to investigate the impact on fit indexes of varying 
 sample size, model size, model type, and degree of model misspecification. 
 Monte Carlo simulation is one of statistical techniques that use pseudo-random sampling (e.g., 
 pulling random numbers from the given distribution) to derive approximate solutions to a variety 
 of mathematical problems.
 
 
-This study specifically addresses the sensitivity of various fit indices to various model modeling 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This study specifically addresses the sensitivity of various fit indices to various model modeling 
 conditions such as sample size, model size, model type, and degree of model misspecification. 
 Previous literatures have provided the guidelines for which fit indices must be used and proposed 
 cutoff criteria for those fit indexes in model fit assessment. According to Hu and Bentler (1998), a 
@@ -22,7 +22,7 @@ substantially under misspecification. It also should be sensitive to model missp
 to types of models.
 
 
-Recently, however, many fit indices are found not only to be sensitive to model misspecification 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recently, however, many fit indices are found not only to be sensitive to model misspecification 
 (desirable), but also be sensitive to other modeling conditions such as types of model (e.g., CFA, 
 SR, or LGM; undesirable), model complexity, and sample sizes, thus invalidating the previously 
 proposed cutoff criteria. Therefore, this study revisits the notion of so-called global cutoff for 
@@ -30,5 +30,5 @@ model fit indices and examine the performance of those indices while considering
 factors.
 
 
-The results were consistent with the findings from Fan & Sivo (2007) to the some degrees, but 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The results were consistent with the findings from Fan & Sivo (2007) to the some degrees, but 
 did not perfectly replicate them. Implications and Limitations are discussed at the end.
